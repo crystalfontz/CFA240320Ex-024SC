@@ -1,0 +1,15 @@
+#ifndef __CFAF240320Ax_024Sx_ARGB2_H__
+#define __CFAF240320Ax_024Sx_ARGB2_H__
+
+#if 1==LOGO_DEMO
+#if 1==LOGO_PNG_0_ARGB2_1
+
+#define LOGO_SIZE_ARGB2  (2782)
+#define LOGO_WIDTH_ARGB2  (320)
+#define LOGO_HEIGHT_ARGB2 (320)
+extern const uint8_t CFA240320Ex_024Sx_ARGB2_LOGO[LOGO_SIZE_ARGB2] PROGMEM;
+
+#endif // 1==LOGO_PNG_0_ARGB2_1
+#endif // 1==LOGO_DEMO
+
+#endif //  __CFAF240320Ax_024Sx_ARGB2_H__
