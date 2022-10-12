@@ -1,13 +1,13 @@
-# CFAF240320A0-024Sx-A1
+# CFA240320Ex-024Sx
 
-Code for the Crystalfontz [CFAF240320A0-024SC-A1-1](https://www.crystalfontz.com/product/cfaf240320a0024sca11) and [CFAF240320A0-024SN-A1-1](https://www.crystalfontz.com/product/cfaf240320a0024sna11).  
+Code for the Crystalfontz [CFA240320E0-024SC](https://www.crystalfontz.com/product/cfa240320e0024sc) and [CFA240320E0-024SN](https://www.crystalfontz.com/product/cfa240320e0024sn).  
 These displays are 2.4in 240x320 TFTs using the power of the EVE FT811 chip.  
 
 Example Seeeduino (Arduino clone) software.   
   
 Kits for these products can be found here:  
-[CFAF240320A0-024SC-A1-2](https://www.crystalfontz.com/product/cfaf240320a0024sca12)
-[CFAF240320A0-024SN-A1-2](https://www.crystalfontz.com/product/cfaf240320a0024sna12)
+[CFA240320E0-024SC-KIT](https://www.crystalfontz.com/product/cfa240320e0024sckit)
+[CFA240320E0-024SN-KIT](https://www.crystalfontz.com/product/cfa240320e0024snkit)
 
 ## Navigating the Code
 

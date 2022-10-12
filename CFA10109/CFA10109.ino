@@ -161,7 +161,7 @@ void setup()
     DBG_STAT("uSD card initialized.\n");
     }
 #endif
-
+  delay(300);
   //See if we can find the FTDI/BridgeTek EVE processor
   if(0 != EVE_Initialize())
     {
